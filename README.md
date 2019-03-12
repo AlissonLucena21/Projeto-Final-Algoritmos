@@ -1,4 +1,4 @@
-# Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB - Campus CG / PB
+# Projeto final de Algoritmos e Programação - IFPB - Campus CG / PB
 
 Disciplina: Algoritmos e Programação - Eng. da Computação.
 
